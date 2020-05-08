@@ -1,8 +1,6 @@
 import React, {Component} from 'react';
 import '../App.css';
 
-import popper from 'popper.js'
-
 import Nav from './nav.js';
 import code3 from '../images/code3.png'
 
