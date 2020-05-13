@@ -25,18 +25,20 @@ class Work extends Component {
                         </div>
                         <p className='subtitle'>At Carolina Code School, I've learned to work in React, Django, Django Rest Framework and of course, languages such as CSS, JavaScript and Python. <br /> I've really come to love back-end development and I hope to pursue Python much further.
                         </p>
-                        <div className="portfolio-works">
+                        <hr />
+                        <div id="portfolio-details" className="portfolio-works">
                           <div className="card col-12">
                             <div className="card-header">
-                            <h2>The Chef's Notebook</h2>
-                            <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
-                            About the App  <i className="fa fa-plus-square" aria-hidden="true"></i>
-                            </a>
-                            <div className="collapse" id="collapseExample">
-                            <div className="card card-body">
-                              <h5>The Chef's Notebook is a full-stack, original application that I built for hobbyist cooks to record and share the recipes.
-                                  The app allows you to follow other cooks, as well as comments to leave feedback.</h5>                            </div>
-                          </div>
+                              <h2>The Chef's Notebook</h2>
+                                <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
+                                About the App  <i className="fa fa-plus-square" aria-hidden="true"></i>
+                                </a>
+                              <div className="collapse" id="collapseExample">
+                                <div className="card card-body">
+                                  <h5>The Chef's Notebook is a full-stack, original application that I built for hobbyist cooks to record and share the recipes.
+                                      The app allows you to follow other cooks, as well as comments to leave feedback.</h5>                            
+                                </div>
+                              </div>
 
 
                             </div>
@@ -47,7 +49,7 @@ class Work extends Component {
                               <a className="vid-link" data-toggle="tooltip" data-placement="top" title="Video Demo" href="https://drive.google.com/file/d/1bBZ8qJoGNCorBWjwfYZJZ8iyuExxsfhA/view?usp=sharing"><i className="fa fa-video-camera" aria-hidden="true"></i></a>
                             </div>
                           </div>
-
+                        <hr />
                           <div className="card col-12">
                             <div className="card-header">
                             <h2>Pixel Perfect</h2>
@@ -63,13 +65,14 @@ class Work extends Component {
 
 
                             </div>
+                       
                             <div className="card-body">
                               <h5>Check out the source code on Github and the webpage itself on GH Pages</h5>
                               <a className="github-link" data-toggle="tooltip" data-placement="top" title="View Source Code" href="https://github.com/ramonaspence/1.4-pixel-perfect"><i className="fa fa-github-square" aria-hidden="true"></i></a>
                               <a className="gh-pages" data-toggle="tooltip" data-placement="top" title="View webpage on GH Pages" href="https://ramonaspence.github.io/1.4-pixel-perfect/"><i className="fa fa-paper-plane" aria-hidden="true"></i></a>
                             </div>
                           </div>
-
+                        <hr />
                           <div className="card col-12">
                             <div className="card-header">
                             <h2>Tool Library</h2>
@@ -90,10 +93,8 @@ class Work extends Component {
                               <a className="github-link" data-toggle="tooltip" data-placement="top" title="View Source Code" href="https://github.com/ramonaspence/7.4-hey-neighbor"><i className="fa fa-github-square" aria-hidden="true"></i></a>
                               <a className="heroku-link" data-toggle="tooltip" data-placement="top" title="View App on Heroku" href="https://hey-neighbor-ramonaspence.herokuapp.com/"><i className="fa fa-paper-plane" aria-hidden="true"></i></a>
                             </div>
+                            
                           </div>
-
-
-
                         </div>
                     </div>
                 </div>

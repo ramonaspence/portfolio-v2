@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import '../App.css';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 import outside from '../images/outside.jpg';
 import Nav from './nav.js'
 

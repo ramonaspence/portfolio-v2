@@ -1,10 +1,12 @@
-
 * {
 	box-sizing: border-box;
+
 }
 
+
+
 body{
-	background-color: #f9f9f9;
+	background-color: #FFFFFF;
 	font-family: "Crimson Text";
 
 }
@@ -27,7 +29,7 @@ a {
 	
 }
 
-.main{
+.main {
 	background: #fff;
 
 }
@@ -339,14 +341,42 @@ footer{
 	display: block;
 }
 
+hr {
+	margin-right: 20px;
+	margin-left: 20px;
+	border: .5px solid #00000021;
+	
+}
+
+#portfolio-details .card .card-header {
+	border: none;
+	background: none;
+}
+
+.portfolio-works .card {
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+.portfolio-works .card-body {
+	padding-top: 0;
+	padding-bottom: 0;
+	
+}
+
+
 .portfolio-works {
-	font-size: 2rem;
-	margin: 3rem 3rem;
-	padding: 1rem 1rem;
+	
+	font-size: 1.5rem;
+
 }
 
 .portfolio-works h5 {
-	font-size: 1.6rem;
+	font-size: 1rem;
+	/* margin-top: 10px; */
+	margin-bottom: 10px;
 }
 
 .portfolio-works a:visited{
@@ -357,6 +387,7 @@ footer{
 .portfolio-works a {
 	text-decoration: none;
 	color: black;
+	margin: .1rem;
 }
 
 .portfolio-works a:hover {
