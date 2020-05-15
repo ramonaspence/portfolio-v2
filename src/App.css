@@ -399,20 +399,36 @@ hr {
 	color: #bb9e7d;
 }
 
-.message-me {
+#message-me {
 	margin: 5em 3rem;
+	text-align: left;
 }
 
-.message-me i:hover {
+#message-me i:hover {
 	color: #bb9e7d;
 }
 
 
-.message-me a i {
+#message-me a i {
 	margin-left: 1rem;
 	font-size: 1.6rem;
 }
 
-.message-me .linkedIn {
+#message-me .linkedIn {
+	
 	font-size: 2rem;
+}
+
+.card {
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+#message-me .card-body {
+	border: none;
+	padding-top: 0;
+	padding-bottom: 0;
+	
 }

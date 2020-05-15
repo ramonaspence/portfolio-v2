@@ -9,9 +9,13 @@ Link,
 Switch
 } from 'react-router-dom'; 
 
+
 import Index from './components/index.js'
 import About from './components/about.js'
 import Work from './components/work.js'
+import Contact from './components/contact.js'
+
+
 
 class App extends Component {
   
@@ -32,6 +36,9 @@ class App extends Component {
             <Work />
           </Route>
 
+          <Route path="/contact/">
+            <Contact />
+          </Route>
         </Switch>
       </Router>
     )
