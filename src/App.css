@@ -46,20 +46,18 @@ a {
 }
 
 .social a i{
-	height: 40px;
-	width: 40px;
-	border: 1px solid #111;
-	line-height: 40px;
-	margin: 0 10px;
+	position: relative;
+	left: 1rem;
+	margin-right: 2rem;
 	color: #111;
-	font-size: 20px;
-	padding-bottom: 20px;
+	font-size: 2rem;
+	
 	}
 
 .social a:hover i{
-	color: #fff;
+	color: #bb9e7d;
 	border-color: #bb9e7d;
-	background-color: #bb9e7d;
+	background-color: #fff;
 	}
 
 
