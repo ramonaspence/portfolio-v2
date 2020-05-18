@@ -27,20 +27,17 @@ class Contact extends Component {
                         Let's get in contact with each other!
                         </p>
                         
-                        <div id="message-me" class="card">
-                        <div class="card-body">
-                            <h4>Contact Me via Email: <a href="mailto:ramonaejspence@gmail.com" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
-                            </h4>
-                        </div>
-                        <div class="card-body linkedIn">
-                            <h4>Or Contact Me via LinkedIn: <a href="https://www.linkedin.com/in/ramona-spence-ba606a18a/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-                            </h4>
+                       
+                        <div class="contact-links">
+                        <a href="mailto:ramonaejspence@gmail.com" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
+                        <a href="https://www.linkedin.com/in/ramona-spence-ba606a18a/"><i class="fab fa-linkedin"></i></a>
+                            
 
                         </div>
                         </div>
                     </div>
                 </div>
-            </div>
+           
             
         </React.Fragment>
         )

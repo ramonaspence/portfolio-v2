@@ -43,7 +43,7 @@ class Work extends Component {
 
                             </div>
                             <div className="card-body">
-                              <h5>Check out the source code on Github, the live app on Heroku, or a video demo of the app below.</h5>
+                              
                               <a className="github-link" data-toggle="tooltip" data-placement="top" title="Source Code" href="https://github.com/ramonaspence/chefs-notebook"><i class="fab fa-github-square"></i></a>
                               <a className="heroku-link" data-toggle="tooltip" data-placement="top" title="View App on Heroku" href="https://ccs-final-project-ramonaspence.herokuapp.com/"><i class="fas fa-link"></i></a>
                               <a className="vid-link" data-toggle="tooltip" data-placement="top" title="Video Demo" href="https://drive.google.com/file/d/1bBZ8qJoGNCorBWjwfYZJZ8iyuExxsfhA/view?usp=sharing"><i className="fa fa-video-camera" aria-hidden="true"></i></a>
@@ -67,7 +67,7 @@ class Work extends Component {
                             </div>
                        
                             <div className="card-body">
-                              <h5>Check out the source code on Github and the webpage itself on GH Pages</h5>
+                              
                               <a className="github-link" data-toggle="tooltip" data-placement="top" title="View Source Code" href="https://github.com/ramonaspence/1.4-pixel-perfect"><i class="fab fa-github-square"></i></a>
                               <a className="gh-pages" data-toggle="tooltip" data-placement="top" title="View webpage on GH Pages" href="https://ramonaspence.github.io/1.4-pixel-perfect/"><i class="fas fa-link"></i></a>
                             </div>
@@ -89,7 +89,7 @@ class Work extends Component {
 
                             </div>
                             <div className="card-body">
-                              <h5>Check out the source code on Github and the webpage itself on GH Pages</h5>
+                             
                               <a className="github-link" data-toggle="tooltip" data-placement="top" title="View Source Code" href="https://github.com/ramonaspence/7.4-hey-neighbor"><i class="fab fa-github-square"></i></a>
                               <a className="heroku-link" data-toggle="tooltip" data-placement="top" title="View App on Heroku" href="https://hey-neighbor-ramonaspence.herokuapp.com/"><i class="fas fa-link"></i></a>
                             </div>

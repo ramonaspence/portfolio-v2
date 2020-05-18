@@ -374,7 +374,7 @@ hr {
 }
 
 .portfolio-works .card-body i {
-	font-size: 1rem;
+	font-size: 1.2rem;
 	margin-right: .25rem;
 }
 
@@ -443,3 +443,20 @@ hr {
 	padding-bottom: 0;
 	
 }
+
+.contact-links {
+	margin: 1rem;
+	margin-left: 0;
+	font-size: 1.6rem;
+	
+}
+
+.contact-links a {
+	margin: .5rem;
+}
+
+.contact-links a:hover {
+	color: #bb9e7d;
+	border-color: #bb9e7d;
+	background-color: #fff;
+	}
