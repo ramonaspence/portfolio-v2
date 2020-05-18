@@ -20,7 +20,7 @@ class Index extends Component {
                     <h4>Ramona E.J. Spence</h4>
                 </div>
                 <p className="home-description">
-                  Hi, I'm Ramona. I'm a geek.<br /> I'm a Star Wars geek. I'm a nature geek. <br /> And I'm a Software Developer.<br /> This is my portfolio and a place to get to know me as a Developer.<br /> Welcome!
+                  Hi, I'm Ramona. I'm a geek.<br /> I'm a Star Wars geek. I'm a nature geek. <br /> And I'm a code geek.<br /> This is my portfolio and a place to get to know me as a Developer.<br /> Welcome!
                 </p>
                
                 <div className="social">

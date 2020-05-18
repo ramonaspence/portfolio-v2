@@ -86,8 +86,8 @@ a {
 		}
 
 		.home-description{
-			padding-right: 90px;
-			padding-left: 90px;
+			padding-right: 50px;
+			padding-left: 50px;
 
 		}
 }
@@ -373,10 +373,21 @@ hr {
 
 }
 
+.portfolio-works .card-body i {
+	font-size: 1rem;
+	margin-right: .25rem;
+}
+
 .portfolio-works h5 {
 	font-size: 1rem;
 	/* margin-top: 10px; */
 	margin-bottom: 10px;
+}
+
+.portfolio-works h2 i {
+	font-size: 1.3rem;
+	margin-left: .5rem;
+
 }
 
 .portfolio-works a:visited{
