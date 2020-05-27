@@ -26,7 +26,7 @@ class Index extends Component {
                 <div className="social">
                     <a href="https://github.com/ramonaspence"><i class="fab fa-github-square"></i></a>
 
-                    <a href="https://www.linkedin.com/in/ramona-spence-ba606a18a/"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/ramona-spence-she-her-ba606a18a/"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
         </div>
