@@ -30,7 +30,7 @@ class Contact extends Component {
                        
                         <div class="contact-links">
                         <a href="mailto:ramonaejspence@gmail.com" ><i class="fa fa-envelope" aria-hidden="true"></i></a>
-                        <a href="https://www.linkedin.com/in/ramona-spence-ba606a18a/"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.linkedin.com/in/ramona-spence-she-her-ba606a18a/"><i class="fab fa-linkedin"></i></a>
                             
 
                         </div>
