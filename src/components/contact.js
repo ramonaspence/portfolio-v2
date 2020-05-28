@@ -23,8 +23,8 @@ class Contact extends Component {
                                 c
                             </div>
                         </div>
-                        <p class='subtitle'>I'm seeking opportunities and would love to have an informal conversation or informational interview with you!<br /><br />
-                        Let's get in contact with each other!
+                        <p class='subtitle'>I'm seeking remote opportunities and would love to have an informal conversation with you about your company or your journey as a developer.<br /><br />
+                        Let's get connected!
                         </p>
                         
                        

@@ -22,9 +22,8 @@ class About extends Component {
                         </div>
                         <p className='subtitle'>As a graduate from Carolina Code School in Greenville, SC, I feel confident and eager to jumpstart my software development career.
                         </p>
-                        <p className="info">Currently, I do volunteer work with HackGreenville on an event calendar service written in Python. The dev world has captured me by how willing everyone is to give back and to contribute to others' projects. Now, I wish to give back as well and I'm only beginning. <br/>I began a career as a baker in 2012, and pursued that career until becoming a pastry chef. However, I started learning HTML when I was 12. Of course, I haven't been dedicated to web development since then, but my interest in all things Hacky and Techy hasn't left me since Super Mario64 in 1996.
-                        But much more recently I decided to make a career change because I quickly saw the ceilings in Food Service. I had to find a new path that would challenge me and give me room to grow--non-stop. I'm very happy to say that I have found that in Software Development. So after a lot of contemplation about what I wanted in life, I decided to go to a coding bootcamp; Carolina Code School.
-                        I have not been disappointed. I love to learn and that's a huge part of software development, because we can't know everything all of the time. <br /> I hope you find that this portfolio speaks for itself to show my skills. Perhaps your company and myself will be a good fit for each other.
+                        <p className="info">For the past 10 years I have been a baker and pastry chef. While I love to bake, I decided that it was not a career for me. I want something more engaging and challenging.<br /><br /> Since I've had an interest in all things techy from a young age, software development seemed like a good start, and I've found that I have a passion for the work.  <br/><br />Other passions of mine include video games, music, and biking.  
+                        I spend my spare time pursuing these, but I'm always looking for ways to solve problems with software in these areas.
                           </p>
                     </div>
                 </div>
