@@ -23,10 +23,33 @@ class Work extends Component {
                             <h2 className="page-title" text-center>Work</h2>
                             <div className="marker">w</div>
                         </div>
-                        <p className='subtitle'>At Carolina Code School, I've learned to work in React, Django, Django Rest Framework and of course, languages such as CSS, JavaScript and Python. <br /> I've really come to love back-end development and I hope to pursue Python much further.
+                        <p className='subtitle'>At Carolina Code School, and since graduating, I've built single-page applications in React, MVC applications in Django and backend APIs in Python. I have learned by doing, and seek to always be learning and growing as a software developer.
+
                         </p>
                         <hr />
                         <div id="portfolio-details" className="portfolio-works">
+                        <div className="card col-12">
+                            <div className="card-header">
+                            <h2>Hack Greenville's Tech Calendar Service<a data-toggle="collapse" href="#hackGreenville" role="button" aria-expanded="false" aria-controls="collapseExample">
+                            <i className="fa fa-plus-square" aria-hidden="true"></i>
+                            </a></h2>
+                            
+                            <div className="collapse" id="hackGreenville">
+                            <div className="card card-body">
+                              <h5>I have worked with Hack Greenville on a project that acts as a tech event aggregator. This included a lot of work in Git, as well as with API calls and manipulating that data.<br /><br /> I have linked the Github repository as well as a list of Issues I have worked on. </h5>
+                            </div>
+                          </div>
+
+
+                            </div>
+                       
+                            <div className="card-body">
+                              
+                              <a className="github-link" data-toggle="tooltip" data-placement="top" title="View Source Code" href="https://github.com/codeforgreenville/upstate_tech_cal_service"><i class="fab fa-github-square"></i></a>
+                              <a className="gh-pages" data-toggle="tooltip" data-placement="top" title="View webpage on GH Pages" href="https://github.com/codeforgreenville/upstate_tech_cal_service/issues?q=involves%3Aramonaspence"><i class="fas fa-code-branch"></i></a>
+                            </div>
+                          </div>
+                        <hr />
                           <div className="card col-12">
                             <div className="card-header">
                               <h2>The Chef's Notebook
