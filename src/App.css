@@ -347,6 +347,10 @@ hr {
 	
 }
 
+.portfolio {
+	margin-bottom: 5rem;
+}
+
 #portfolio-details .card .card-header {
 	border: none;
 	background: none;
@@ -361,15 +365,11 @@ hr {
 
 .portfolio-works .card-body {
 	padding-top: 0;
-	padding-bottom: 0;
-	
+	padding-bottom: 0;	
 }
 
-
 .portfolio-works {
-	
 	font-size: 1.5rem;
-
 }
 
 .portfolio-works .card-body i {
@@ -379,7 +379,6 @@ hr {
 
 .portfolio-works h5 {
 	font-size: 1rem;
-	/* margin-top: 10px; */
 	margin-bottom: 10px;
 }
 

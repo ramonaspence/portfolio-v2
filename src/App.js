@@ -5,7 +5,6 @@ import './App.css';
 
 import {BrowserRouter as Router,
 Route,
-Link,
 Switch
 } from 'react-router-dom'; 
 
@@ -13,7 +12,6 @@ Switch
 import Index from './components/index.js'
 import About from './components/about.js'
 import Work from './components/work.js'
-import Contact from './components/contact.js'
 
 
 
@@ -34,10 +32,6 @@ class App extends Component {
 
           <Route path="/work/">
             <Work />
-          </Route>
-
-          <Route path="/contact/">
-            <Contact />
           </Route>
         </Switch>
       </Router>
